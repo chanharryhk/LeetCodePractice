@@ -3,4 +3,4 @@ My quest to tackling difficult technical interview questions faster with elegant
 ## Progress Log  
 | Date | Questions Solved |   
 | -: | :- |   
-| December 2018: | Hard: **0**  Medium: **0**  Easy **0**  |  
+| December 2018: | Hard: **0**<br>Medium: **0**<br>Easy **0**  |  
