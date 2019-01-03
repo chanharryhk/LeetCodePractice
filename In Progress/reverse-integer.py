@@ -22,5 +22,5 @@ class Solution(object):
             ans *= -1
         return ans
 test = Solution()
-print(test.reverse(0))
+print(test.reverse(99))
 
