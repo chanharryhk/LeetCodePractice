@@ -1,7 +1,7 @@
 # LeetCodePractice
 My quest to tackling difficult technical interview questions faster with elegant solutions 👨‍💻. Code is well documented for future reference.
 
-NEW YEAR 🎉 NEW ME BABY 👼 | 300 TC OR BUST
+NEW YEAR 🎉 NEW ME BABY 👼 | 300 TC 🧧OR BUST 💥
 ## Progress Log  
 | Date | Questions Solved |   
 | -: | :- |   
