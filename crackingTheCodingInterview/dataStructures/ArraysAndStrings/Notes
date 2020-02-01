@@ -1,0 +1,15 @@
+hashTables
+1. compute key's hashcode
+    a. two different keys could have the same hashcode
+2. map the hashcode to index in an array
+3. linked list of keys and values (incase of collisions)
+
+if collisions are high runtime could be O(N) but if low time is O(1)
+
+arrayList - automatically resizeable
+1. when array is full it doubles in size O(N) very rare so O(1)
+
+stringBuilder - 
+1. on each concatentation a new copy of string is created
+    a. each character is copied over from the two strings
+    big O(XN^2)
