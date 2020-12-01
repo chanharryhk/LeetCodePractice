@@ -3,10 +3,10 @@ My quest to tackling difficult technical interview questions faster with elegant
 
 NEW YEAR 🎉 NEW ME BABY 👼 | 300 TC 🧧 OR BUST 💥
 ## Progress Log  
-| Date | Questions Solved |   
-| -: | :- |   
-| December 2020: | Hard: **0**<br>Medium: **1** <br>Easy **1** <br>Total:**16**|  
-| November 2020: | Hard: **0**<br>Medium: **11**<br>Easy **3** <br>Total:**14**|  
+| Date | Questions Solved |  Total |
+| -: | :- | :- |  
+| December 2020: | Hard: **0**<br>Medium: **1** <br>Easy **1** | 16 | 
+| November 2020: | Hard: **0**<br>Medium: **11**<br>Easy **3** | 14 | 
 
 
 ## Updates
