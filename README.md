@@ -5,4 +5,4 @@ NEW YEAR 🎉 NEW ME BABY 👼 | 300 TC 🧧OR BUST 💥
 ## Progress Log  
 | Date | Questions Solved |   
 | -: | :- |   
-| January 2020: | Hard: **0**<br>Medium: **0**<br>Easy **1** |  
+| December 2020: | Hard: **0**<br>Medium: **0**<br>Easy **0** |  
